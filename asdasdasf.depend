@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1653535769 source:c:\users\laptop\desktop\tony\cucei\quinto semestre\estructuras de datos ll\asdasdasf\main.cpp
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<iostream>
+	<windows.h>
+
